@@ -1,0 +1,37 @@
+_repo: En-Route_24096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Jorris-Karl
+    - Huysmans, Jaris-Karl
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Joris Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+description: Solitary, agonised and alienated, robbed of religion and plunged into
+  decadence by the pressures of modern life, Durtal discovers a new road to Rome.
+  Art, architecture and music light his way back to God.
+gutenberg_issued: '2007-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PQ'
+- !lcsh 'Conversion -- Fiction'
+- !lcsh 'Catholic Church -- Fiction'
+- !lcsh 'French fiction -- 19th century'
+title: En Route
+url: http://www.gutenberg.org/ebooks/24096
